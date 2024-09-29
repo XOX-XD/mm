@@ -1,1 +1,1 @@
-
+[FBAN/FB4A;FBAV/482.0.0.0.81;FBBV/455409026;FBDM/{density=3.0,width=1440,height=3200};FBLC/en_BM;FBRV/455409026;FBCR/Telma;FBMF/Hisense;FBBD/Hisense;FBPN/com.facebook.katana;FBDV/HS-U6P;FBSV/11;FBCA/arm64-v8a:;]
