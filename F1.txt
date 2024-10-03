@@ -1,1 +1,1 @@
-Dalvik/2.1.0 (Linux; U; Android 6; A2001 Build/TP2A.228011.976) [FBAN/FB4A;FBAV/450.0.0.42.110;FBBV/449017334;FBDM/{density=2.5,width=1080,height=1920};FBLC/en_US;FBRV/449017334;FBCR/Banglalink;FBMF/OnePlus;FBBD/OnePlus;FBPN/com.facebook.katana;FBDV/A2001;FBSV/6;FBCA/armeabi-v7a:armeabi;]
+Dalvik/3.0.0 (Linux; U; Android 6; A2001 Build/PPR2.758015.111) [FBAN/FB4A;FBAV/450.0.0.42.110;FBBV/449017334;FBDM/{density=2.5,width=1080,height=1920};FBLC/en_BD;FBRV/449017334;FBCR/Banglalink;FBMF/OnePlus;FBBD/OnePlus;FBPN/com.facebook.katana;FBDV/A2001;FBSV/6;FBCA/arm64-v8a:null;]
